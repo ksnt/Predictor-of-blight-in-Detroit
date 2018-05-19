@@ -1,1 +1,3 @@
-# Predictor-of-crimes-in-Detroit
+# Predictor of blights in Detroit  
+
+Here is the repository for my project.  
