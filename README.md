@@ -1,4 +1,4 @@
-# Predictor of blights in Detroit  
+# Predictor of blight in Detroit  
 
 Author: takayuki kaisen  
 
